@@ -91,25 +91,7 @@ section h2{
     height: auto;
     align-content: center;
 }
-.card7{
-    margin-left: 270px;
-    max-width: 386px;
-    height:auto;
-}
-.card7 img{
-    max-width: 544px;
-    padding-top: 125px;
-}
-.card8{
-    align-items: end;
-    margin-left: 420px;
-    max-width: 400px;
-    height:auto;
-}
-.card8 img{
-    max-width: 496px;
-    margin-top: 70px;
-}
+
 .card9{
     margin-left: 200px;
     max-width: 386px;
@@ -145,5 +127,6 @@ footer {
     text-align: center;
     font-style: italic;
 }
-
+@media (max-width: 800px) {
+}
 
